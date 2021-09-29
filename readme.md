@@ -16,6 +16,9 @@ this repo is a clone of https://github.com/nelaturuk/education_pathways.
 ## Activity 4
 <img width="1438" alt="Screen Shot 2021-09-29 at 2 35 37 PM" src="https://user-images.githubusercontent.com/46201075/135329271-1c8f77fd-8187-41fd-bb20-633a2a0f53c3.png">
 
+![Screen Shot 2021-09-29 at 3 10 53 PM](https://user-images.githubusercontent.com/46201075/135333377-2272e215-5f75-4507-94d6-f08866a94db3.png)
+
+
 ## Activity 5
 
 One Functional Requirement I would like to improve are the filters. I would add a filter that specifies the term (Summer, Winter, Fall) in order for the student to narrow down the course searches to the ones that are offered in the term that they are currently planning for. I would also add a filter for minors and certificates for students who are pursuing either a minor or certificates so that they can filter for all the courses related to their minor/certficate and take those courses to satisfy the requirements. One non-functional requirement I would like to improve is convenience.  I would want the application to have a blank canvas that the user would fill out with courses they would like to take in one semester. On the left hand side of the canvas is all the filters and a list of all the filtered courses below it. When the user clicks on a course a pop up will come up with all information related to that course all in one place and if the user finds the course they want they can drag the course and place it on the blank canvas. An auto save feature will also be added to make it more convenient for the user so they don't have to continously save their progress.
