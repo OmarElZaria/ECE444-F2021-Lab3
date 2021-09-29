@@ -1,7 +1,7 @@
 #ECE444 Fall 2021 Lab3
 
-Omar ElZaria
-This repo is a clone of https://github.com/nelaturuk/education_pathways.
+Omar ElZaria,
+this repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 # CARTE Education Pathways
 
